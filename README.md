@@ -1,2 +1,6 @@
 # GreatMomentApp
-an ionic app using camera and ionic storage to take photos and persitent them into camera to display as carousel
+an ionic app allows us to capture pictures using the native camera of the mobile device. The app also displays all the pictures in a carousel.
+
+* Use camera to snap pictures
+*	Store the pictures to the device
+*	Display the pictures in a carousel
